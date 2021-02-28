@@ -1,5 +1,5 @@
 <template>
-  <Header title="Convertisseur Minutes Salaires"></Header>
+  <Header title="Convertisseur Salaire"></Header>
   <container></container>
 </template>
 
